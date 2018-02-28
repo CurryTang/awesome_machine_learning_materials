@@ -11,3 +11,6 @@ The contents of this repository is still being updated.
 
 ## Articles
 * [Intro to Word2Vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+* [Negative Sampling](http://ruder.io/word-embeddings-softmax/)
+
+
