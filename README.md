@@ -13,6 +13,7 @@ The contents of this repository is still being updated.
 * [Intro to Word2Vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 * [Negative Sampling](http://ruder.io/word-embeddings-softmax/)
 * [A visual explanation of MapReduce](https://ayende.com/blog/4435/map-reduce-a-visual-explanation)
+* [An application of mapreduce(WordCount)](https://dzone.com/articles/word-count-hello-word-program-in-mapreduce)
 
 ## Papers
 * [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
