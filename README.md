@@ -8,6 +8,8 @@ The contents of this repository is still being updated.
 * [Stanford's Machine Learning Course](http://cs229.stanford.edu/) 
 * [Stanford's Deep Learning Course](cs231n.stanford.edu)
 * [Stanford's Course On tensorflow](https://web.stanford.edu/class/cs20si/)
+* [Hung-Yi Lee's Course on Machine Learning taught in Chinsese](https://www.bilibili.com/video/av10590361)
+* [Hung-Yi Lee's Course on Deeo Learning taught in Chinsese](https://www.bilibili.com/video/av9770302)
 
 ## Articles
 * [Intro to Word2Vec](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
@@ -19,5 +21,6 @@ The contents of this repository is still being updated.
 * [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 
 ## Books
+
 
 
