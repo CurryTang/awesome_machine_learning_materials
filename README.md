@@ -19,8 +19,10 @@ The contents of this repository is still being updated.
 
 ## Papers
 * [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
+* [RBM Original Paper](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 
 ## Books
+* [Hands on Machine Learning with Scikit-learn and tensorflow](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 
 
 
