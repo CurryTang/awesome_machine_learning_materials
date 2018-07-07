@@ -21,6 +21,9 @@ The contents of this repository is still being updated.
 * [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 * [RBM Original Paper](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 
+### Paper focused on distributed machine learning (ssgd and asgd)
+* [When edge meets learning(A introduction of synchronous methods)](https://arxiv.org/abs/1804.05271)
+
 ## Books
 * [Hands on Machine Learning with Scikit-learn and tensorflow](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 
