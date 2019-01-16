@@ -2,6 +2,8 @@
 
 > This repository contains some good studying materials that I encounter with during the studying of machine learning(some distributed computing materials will also be contained).
 
+I will put my learning notes in this repository.
+
 The contents of this repository is still being updated.
 
 ## Courses
@@ -20,6 +22,7 @@ The contents of this repository is still being updated.
 ## Papers
 * [MapReduce](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
 * [RBM Original Paper](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
+* [Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf)
 
 ### Paper focused on distributed machine learning (ssgd and asgd)
 * [When edge meets learning(A introduction of synchronous methods)](https://arxiv.org/abs/1804.05271)
